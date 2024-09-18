@@ -8,7 +8,7 @@ import { useState } from "react";
 import FancyBox from "@/components/FancyBox";
 
 export default function HomeScreen() {
-  const [fruit, setFruit] = useState("kiwi");
+  const [fruit, setFruit] = useState("Apple");
 
   const [counter, setCounter] = useState(0);
 
